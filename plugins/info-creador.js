@@ -52,7 +52,7 @@ const handler = async (m, {conn, usedPrefix}) => {
         'title': tradutor.texto2[1],
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'}},
+        'sourceUrl': 'https://chat.whatsapp.com/Kv0DYBypvns12okekE5c5L'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
